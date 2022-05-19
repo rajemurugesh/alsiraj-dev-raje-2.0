@@ -1,2 +1,15 @@
-# alsiraj-dev-raje-2.0
-AL Siraj source code
+# Express TypeScript Test
+
+To run in development mode
+
+```bash
+npm run dev
+```
+
+To build
+
+```bash
+npm run build
+```
+
+raje committing a new file
